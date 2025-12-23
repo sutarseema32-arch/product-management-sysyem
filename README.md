@@ -48,7 +48,7 @@ A simple Product Management System built with **Laravel** that allows users to *
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sutarseema32-arch/product-management-sysyem.git
 cd your-repo-name
 
 
