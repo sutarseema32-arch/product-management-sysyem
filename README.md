@@ -34,13 +34,15 @@ A simple Product Management System built with **Laravel** that allows users to *
 - product_name
 - product_price
 - product_desc
-- timestamps
+- created_at
+- updated_at
 
-### product_images table
+### products_img table
 - id
 - product_id (foreign key)
 - image_path
-- timestamps
+- created_at
+- updated_at
 
 ---
 
